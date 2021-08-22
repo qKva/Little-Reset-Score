@@ -6,7 +6,7 @@ Version 1.0:
 - Create plugin;
 - Add register_clcmd;
 - Add chat message;
-- Add comments for ease use
+- Add comments for ease use.
 
 Version 1.1+:
-- Not planned 
+- Not planned.
