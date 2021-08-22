@@ -1,12 +1,15 @@
 # Little Reset Score
 
-Little plugin for reset score on your server CS 1.6 | Have fun!
+#### This is a simple plugin for reset score on your server CS 1.6.
 
-Version 1.0:
+
+### Version 1.0:
+
 - Create plugin;
 - Add register_clcmd;
 - Add chat message;
 - Add comments for ease use.
 
-Version 1.1+:
+### Verison 1.1+:
+
 - Not planned.
