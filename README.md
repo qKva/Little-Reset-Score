@@ -1,4 +1,4 @@
-# Little-Reset_Score
+# Little Reset Score
 
 Little plugin for reset score on your server CS 1.6 | Have fun!
 
